@@ -1,6 +1,6 @@
 function imagem(){
   let img = document.getElementById("img")
-  img.src = "img/welcome.png"
+  img.src = "welcome.png"
 
 }
 function imagem2(){
