@@ -5,7 +5,7 @@ function imagem(){
 }
 function imagem2(){
   let img = document.getElementById("img")
-  img.src = "img/IMG_20260418_123746.jpg"
+  img.src = "IMG_20260418_123746.jpg"
 }
 /*
 function tema(){
